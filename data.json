@@ -1,0 +1,39 @@
+[{
+
+    "Navne": {
+    "Navn":"Sofie",
+    "Efternavn":"Gøtzsche"
+},
+"alder": 22,
+"studerende": true,
+"interesser": ["Musik", "Mode", "Design"],
+"adresse": {
+    "vej": "Ebertsgade",
+    "vejnummer": "2 1TV",
+    "by": "København S",
+    "postnummer": "2300"
+},
+
+"fødseldato": "2003-30-01"
+
+}
+
+,{
+
+    "Navne": {
+    "Navn":"Silas",
+    "Efternavn":"Lien"
+},
+"alder": 26,
+"studerende": true,
+"interesser": ["Musik", "Kodning", "Design"],
+"adresse": {
+    "vej": "Falkevej",
+    "vejnummer": "7",
+    "by": "København NV",
+    "postnummer": "2400"
+},
+
+"fødseldato": "1998-08-10"
+
+}]
