@@ -36,13 +36,20 @@
   },
 
   {
-    "id": 1108972463,
     "name": {
       "fornavn": "Oliver Alexander",
       "efternavn": "Ladekarl Bengtson"
     },
     "alder": 27,
-    "studie": "Multimedia",
-    "interesser": ["tegning", "kunst"]
+    "studerende": true,
+    "interesser": ["tegning", "kunst"],
+    "adresse": {
+      "vej": "Havnevej",
+      "vejnummer": "1",
+      "by": "Humlebæk",
+      "postnummer": "3050"
+    },
+
+    "fødseldato": "1997-08-11"
   }
 ]
